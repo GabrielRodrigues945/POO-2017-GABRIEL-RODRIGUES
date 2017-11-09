@@ -1,0 +1,5 @@
+Questão 1:	
+A programação orientada a objetos  tem como objetivo ensinar a maquina a como tratar algo que possui caracteristicas ,  estado e  o que esse "algo" pode fazer diferentemente da programação estruturada em que seu foco principal é a maneira que o codigo irá se comportar.Em OO tem-se as classes que é o onde será inserido as atribuições do objeto em questão , e essas atribuições podem ter valores que serão inseridos por meio de varáveis e assim tera o processo de instanciamento que é a transformação de algo que era abstraido em algo palpavel a partir de uma máquina.  
+
+Questão 6 :
+No controle de versão distribuido há uma descentraçização do projeto em que ele pode ser armazenado em um servidor  local para só  depois ser enviado para nuvem tirando assim ha necessidade de uma conexão constante.
