@@ -1,0 +1,9 @@
+1)  pois não há interesse em ter um objeto vago assim .
+    O  método "atualiza"  pois deveria ser reescrito para todo filho
+
+2)Sim, pois assim pode se tornar as funções mais genéricas.
+
+3)pois deve se reescrever o método "Atualiza", como um método abstrato ele deve ser reescrito em cada classe em que ele seja utilizado.
+
+5)por elas serem classes Abstratas não precisa se implementar os métodos abstratos da classe Conta, mas as classes que herdarem de ContaPoupanca e de ContaCorrente e que não forem abstratas terão que implementar os métodos abstratos.
+
