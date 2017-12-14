@@ -1,0 +1,6 @@
+01)Não;  uma classe abstrata serve apenas para demonstrar quais métodos devem ser criados ou substituidos para que o objeto fique completo
+
+03) Ocorrera um erro 
+
+07)Pois FiguraGeometrica[10] é um vetor de 10 elementos ligado a duas classer herdeiras . 
+
